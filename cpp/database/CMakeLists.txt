@@ -1,0 +1,11 @@
+add_library(prob
+    BigInt.h
+    file_wrapper.h
+    p.h
+    prob_createInfo.h
+    prob_file.h
+    prob_probability.h
+    prob_utils.h
+    prob_vars.h
+    empty.cpp
+)
