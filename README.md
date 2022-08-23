@@ -25,7 +25,7 @@ Efficiency I am happy with.
 
 ### Flaws
 * Complete disregard for every database concept in existence.
-* Can store only indrebily specific data.
+* Can store only incredibly specific data.
 * Read only.
 
 ### Goal Reflection
