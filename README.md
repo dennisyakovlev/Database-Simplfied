@@ -34,4 +34,4 @@ Achieved quite well. Produced what was needed. Could have been done much better,
 ## Note
 This uploaded code is **not** self contained.  
 Javascript code is dependant on missing code, since this project was taken from a larger project (my wesbite).  
-C++ code must be build with node-gyp, within the larger project to be able to run.
+C++ code must be built with node-gyp, within the larger project to be able to run.
